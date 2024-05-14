@@ -12,6 +12,8 @@
 
 🔗 GitHub: emrananish.github.io.github.io
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrananish)](https://github.com/emrananish/github-readme-stats)
 Happy coding! 🚀
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrananish)](https://github.com/emrananish/github-readme-stats)
+
 
